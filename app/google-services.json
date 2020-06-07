@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413224290706",
+    "firebase_url": "https://mapas-8061b.firebaseio.com",
+    "project_id": "mapas-8061b",
+    "storage_bucket": "mapas-8061b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413224290706:android:0d4d5ce39590e9a973594b",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u5_ejercicio1_geomapatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413224290706-6vohulatndmpmif72966m6ftkcf6npk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kXDG3018qwakjr_zGmtqy0i8BMf-WlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413224290706-6vohulatndmpmif72966m6ftkcf6npk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

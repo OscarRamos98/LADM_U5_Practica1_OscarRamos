@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/ubicacionActual"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ubicacion Actual"
+        android:textColor="#580467"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lista de posibles ubicaciones del tecnologico de Tepic"
+        android:textColor="#070707"
+        android:textSize="15sp" />
+
+    <ListView
+        android:id="@+id/ubicacionLista"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</LinearLayout>
